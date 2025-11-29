@@ -1,4 +1,4 @@
-l<h1 align="center">Hi 👋, I'm Aksh</h1>
+<h1 align="center">Hi 👋, I'm Aksh</h1>
 <h3 align="center">A passionate full-Stack Dveloper from India</h3>
 
 
